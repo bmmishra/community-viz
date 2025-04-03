@@ -1,11 +1,11 @@
-{
-    "visualization": {
-      "id": "custom-chart",
-      "label": "Custom Chart",
-      "description": "A sample custom visualization",
-      "icon": "chart"
-    },
-    "scripts": ["index.js"],
-    "config": "config.json"
-}
-  
+const manifest = {
+  "visualization": {
+    "id": "custom-chart",
+    "label": "Custom Chart",
+    "description": "A sample custom visualization",
+    "icon": "chart"
+  },
+  "scripts": ["index.js"],
+  "config": "config.json"
+};
+export default manifest;
