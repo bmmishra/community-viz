@@ -1,0 +1,8 @@
+{
+    "data": {
+      "type": "dimension",
+      "label": "Select Data",
+      "required": true
+    }
+}
+  
